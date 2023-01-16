@@ -1,0 +1,25 @@
+{
+  "name": "react-native-mock-location-detector",
+  "version": "2.0.0",
+  "description": "Detects if the device is using mock location app to spoof it's real location. In that case user will be prompted to fix the mock location settings first before using the app.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "react native",
+    "location spoofing",
+    "mock location"
+  ],
+  "author": "Aditya Kandari <adkandari@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/adkandari/react-native-mock-location-detector",
+  "bugs": {
+    "url": "https://github.com/adkandari/react-native-mock-location-detector/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/adkandari/react-native-mock-location-detector.git"
+  },
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  }
+}
